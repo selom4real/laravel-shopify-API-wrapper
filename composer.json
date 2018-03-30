@@ -1,6 +1,5 @@
 {
     "name": "rocket-code/shopify",
-    ""
     "description": "",
     "authors": [
         {
@@ -16,5 +15,6 @@
       {
         "RocketCode\\": "src/RocketCode"
       }
-    }
+    },
+    "minimum-stability": "stable"
 }
