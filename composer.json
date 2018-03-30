@@ -16,5 +16,5 @@
         "RocketCode\\": "src/RocketCode"
       }
     },
-    "minimum-stability": "stable"
+    "minimum-stability": "dev-dev-dev-fix"
 }
